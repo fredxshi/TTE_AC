@@ -3,5 +3,5 @@ Code for "Improved Mortality Analysis in Early-Phase Dose-Ranging Clinical Trial
 
 This paper incorporated an active comparator into three statistical models (two-group, EMAX, and hierarchical EMAX models) to measure different dose-response relationships regarding a time-to-event endpoint. The study’s design was motivated by the need to analyze the mortality outcomes of the HOBIT trial.
 
-- **Simulated_Data.csv**: Contains simulated data.
+- **Simulated_Data.csv**: Contains a single simulated dataset.
 - **TTE_AC.R**: Includes code for implementing the seven TTE models described in the paper.
